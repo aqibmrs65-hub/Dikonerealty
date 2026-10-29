@@ -1,0 +1,172 @@
+# ───────────────────────────────────────────────────────────
+# Dikone Realty dashboard settings  (open yoursite.com/admin)
+# Step 1: change the "repo" line to YOUR GitHub repo, as  username/repo-name
+# Step 2: change "branch" only if your main branch is not called main
+# Full instructions: SVELTIA-SETUP-GUIDE.md (the separate file I sent you)
+# ───────────────────────────────────────────────────────────
+backend:
+  name: github
+  repo: YOUR-GITHUB-USERNAME/YOUR-REPO-NAME
+  branch: main
+
+media_folder: assets/listings
+public_folder: /assets/listings
+
+site_url: https://celebrated-starlight-5c0074.netlify.app
+display_url: https://celebrated-starlight-5c0074.netlify.app
+
+collections:
+  - name: listings
+    label: Listings
+    files:
+      - name: opportunities
+        label: Current opportunities (website cards)
+        file: content/listings.json
+        format: json
+        fields:
+          - label: Listings
+            name: listings
+            widget: list
+            label_singular: Listing
+            summary: "{{fields.title}} — {{fields.price}}"
+            fields:
+              - { label: Title, name: title, widget: string, hint: "Shown as the card heading, e.g. Soma Residences" }
+              - { label: Area / location text, name: area, widget: string, hint: "Small text above the title, e.g. Dubai Islands" }
+              - { label: Price text, name: price, widget: string, hint: "e.g. From AED 1.5M  or  Price on request" }
+              - { label: Short description, name: description, widget: text }
+              - { label: Photo, name: image, widget: image, required: false, hint: "Upload a landscape photo (JPG/PNG/WebP)" }
+              - { label: Photo description (for accessibility), name: image_alt, widget: string, required: false }
+              - label: How the photo fits the card
+                name: image_fit
+                widget: select
+                default: cover
+                options:
+                  - { label: Fill the card (best for landscape photos), value: cover }
+                  - { label: Show the whole image (best for posters), value: contain }
+              - label: Videos
+                name: videos
+                widget: list
+                required: false
+                label_singular: Video
+                hint: "Optional. MP4 videos shown in the project pop-up. Keep each under about 10 MB."
+                summary: "{{fields.title}}"
+                fields:
+                  - { label: Video title, name: title, widget: string, hint: "e.g. Show apartment tour" }
+                  - { label: Video file (MP4), name: file, widget: file }
+                  - { label: Cover picture for the video, name: poster, widget: image, required: false }
+              - label: Extra pictures
+                name: gallery
+                widget: list
+                required: false
+                hint: "Optional. More pictures shown in the project pop-up."
+                field: { label: Picture, name: picture, widget: image }
+              - label: Detail sections (shown in the "View details" pop-up)
+                name: sections
+                widget: list
+                required: false
+                label_singular: Section
+                hint: "e.g. Payment plan, Starting prices, Location highlights. Tip: write 'Studio — AED 1.7M' (space, long dash, space) to show a label and value in two columns."
+                summary: "{{fields.title}}"
+                fields:
+                  - { label: Section title, name: title, widget: string }
+                  - label: Lines
+                    name: items
+                    widget: list
+                    field: { label: Line, name: line, widget: string }
+              - { label: Badge on photo, name: badge, widget: string, required: false, hint: "e.g. NEW LAUNCH" }
+              - { label: Type label on photo, name: type_label, widget: string, required: false, hint: "e.g. APARTMENTS" }
+              - label: Three quick facts
+                name: specs
+                widget: list
+                hint: "Short facts shown as small tags, e.g. 2 bedrooms / From 1,200 sq ft / 60/40 plan"
+                field: { label: Fact, name: fact, widget: string }
+              - label: Search filter – Location
+                name: location
+                widget: select
+                options:
+                  - { label: Dubai, value: dubai }
+                  - { label: Dubai Islands, value: dubai-islands }
+                  - { label: Al Rowayah 1, value: al-rowayah }
+                  - { label: RAK Central, value: rak-central }
+                  - { label: The Oasis, value: the-oasis }
+                  - { label: Dubai Creek Harbour, value: dubai-creek-harbour }
+                  - { label: DAMAC Hills 1, value: damac-hills }
+                  - { label: DAMAC Islands 2, value: damac-islands }
+                  - { label: Al Sufouh, value: al-sufouh }
+                  - { label: Sobha Sanctuary, value: sobha-sanctuary }
+                  - { label: DAMAC Lagoons, value: damac-lagoons }
+              - label: Search filter – Property type
+                name: property_types
+                widget: select
+                multiple: true
+                options:
+                  - { label: Apartment, value: apartment }
+                  - { label: Villa, value: villa }
+                  - { label: Townhouse, value: townhouse }
+                  - { label: Studio, value: studio }
+                  - { label: Mansion, value: mansion }
+                  - { label: Mixed-use, value: mixed-use }
+                  - { label: Special offer, value: offer }
+              - label: Search filter – Bedrooms
+                name: bedrooms
+                widget: select
+                multiple: true
+                options:
+                  - { label: Studio, value: studio }
+                  - { label: 1 bedroom, value: "1" }
+                  - { label: 2 bedrooms, value: "2" }
+                  - { label: 3 bedrooms, value: "3" }
+                  - { label: 4+ bedrooms, value: 4plus }
+                  - { label: 6 bedrooms, value: "6" }
+              - label: Search filter – Budget
+                name: budget
+                widget: select
+                multiple: true
+                options:
+                  - { label: Below AED 2M, value: under-2 }
+                  - { label: AED 2M – 5M, value: 2-5 }
+                  - { label: AED 5M – 10M, value: 5-10 }
+                  - { label: AED 10M+, value: 10-plus }
+                  - { label: Price on request, value: request }
+                  - { label: Payment-plan campaign, value: campaign }
+              - label: Category tabs (All / Residences / Villas / Branded / Campaigns)
+                name: category
+                widget: select
+                multiple: true
+                options:
+                  - { label: Residences, value: residence }
+                  - { label: Villas & mansions, value: villa }
+                  - { label: Branded & mixed-use, value: branded }
+                  - { label: Campaigns, value: campaign }
+              - { label: Developer, name: developer, widget: string, required: false }
+              - { label: Completion / handover, name: completion, widget: string, required: false, hint: "Shown in the compare table, e.g. Q4 2028" }
+              - { label: "'View details' link", name: link, widget: string, required: false, default: "#contact", hint: "Leave as #contact to send visitors to your enquiry form, or paste a full https:// link" }
+              - { label: Show on website, name: published, widget: boolean, default: true, hint: "Switch off to hide a listing without deleting it" }
+              - { label: Compare-table title (optional), name: compare_title, widget: string, required: false }
+              - { label: Light photo background (for illustrations), name: image_light, widget: boolean, default: false, required: false }
+              - { label: Internal ID (leave blank for new listings), name: id, widget: string, required: false }
+      - name: headline
+        label: Homepage headline (news banner)
+        file: content/headline.json
+        format: json
+        fields:
+          - { label: Show the headline on the website, name: enabled, widget: boolean, default: true, hint: "Switch off to hide the banner without deleting it" }
+          - { label: Small label, name: flag, widget: string, default: NEW UPDATE, hint: "e.g. NEW UPDATE or BREAKING NEWS" }
+          - { label: Date text (optional), name: date_label, widget: string, required: false, hint: "e.g. October 2026" }
+          - { label: Top-of-page line, name: pill_text, widget: string, required: false, hint: "Short line shown at the very top of the homepage, linking down to the banner. Leave blank to hide it." }
+          - { label: Headline, name: title, widget: string }
+          - { label: Text, name: text, widget: text }
+          - label: Key points
+            name: points
+            widget: list
+            required: false
+            hint: "Short facts shown as tags, e.g. Studio from AED 1.7M"
+            field: { label: Point, name: point, widget: string }
+          - { label: Picture, name: image, widget: image, required: false }
+          - { label: Picture description (for accessibility), name: image_alt, widget: string, required: false }
+          - { label: Project to open (ID from the listings), name: project_id, widget: string, required: false, hint: "e.g. shahrukhz-residences. The main button opens that project's details pop-up. Leave blank to use the link below instead." }
+          - { label: Main button text, name: primary_label, widget: string, required: false }
+          - { label: Main button link (used only when no project ID), name: primary_link, widget: string, required: false, default: "#contact" }
+          - { label: Second button text, name: secondary_label, widget: string, required: false }
+          - { label: Second button link, name: secondary_link, widget: string, required: false, default: "#contact" }
+          - { label: Small print, name: note, widget: string, required: false }

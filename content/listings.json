@@ -1,0 +1,928 @@
+{
+  "listings": [
+    {
+      "id": "sorrento-damac-lagoons",
+      "title": "Sorrento at DAMAC Lagoons",
+      "area": "DAMAC Lagoons",
+      "badge": "NEW LAUNCH",
+      "type_label": "STUDIO + 1BR",
+      "price": "EOI opening soon",
+      "description": "A 45M sq. ft. Mediterranean-inspired community with crystal lagoons, 11 themed destinations and 150+ activities, amenities and services. Studio and 1BR EOIs are opening soon.",
+      "specs": [
+        "Studio + 1BR EOIs",
+        "45M sq. ft. community",
+        "11 themed destinations"
+      ],
+      "image": "assets/listings/sorrento-damac-lagoons.jpg",
+      "image_alt": "Sorrento at DAMAC Lagoons, coming soon: aerial view of lagoons and buildings",
+      "image_fit": "cover",
+      "location": "damac-lagoons",
+      "property_types": [
+        "apartment",
+        "studio"
+      ],
+      "bedrooms": [
+        "studio",
+        "1"
+      ],
+      "budget": [
+        "request"
+      ],
+      "category": [
+        "residence"
+      ],
+      "completion": "To be announced",
+      "developer": "Damac",
+      "link": "#contact",
+      "published": true,
+      "videos": [
+        {
+          "title": "Sorrento launch film",
+          "file": "assets/listings/sorrento-damac-lagoons.mp4",
+          "poster": "assets/listings/sorrento-damac-lagoons.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "title": "The community",
+          "items": [
+            "45M sq. ft. Mediterranean-inspired community",
+            "Crystal lagoons",
+            "11 themed destinations",
+            "150+ activities, amenities and services"
+          ]
+        },
+        {
+          "title": "Why it stands out",
+          "items": [
+            "Resort lifestyle — Live like you are on holiday every day",
+            "Prime connectivity — Easy access to 4 major highways",
+            "Major infrastructure — Strong development happening around the area",
+            "Investment potential — Capital appreciation and rental potential"
+          ]
+        },
+        {
+          "title": "Launch status",
+          "items": [
+            "Studio and 1BR EOIs opening soon",
+            "More details and launch information coming very soon",
+            "Pricing, payment plan and availability remain subject to official confirmation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "damac-lagoon-views",
+      "title": "DAMAC Lagoon Views",
+      "area": "Dubai",
+      "badge": "",
+      "type_label": "APARTMENTS",
+      "price": "From AED 1.3M",
+      "description": "Palm-lined walkways, crystal lagoons and evenings that feel like a getaway. DAMAC Lagoon Views brings resort-inspired lagoon living to Dubai.",
+      "specs": [
+        "Apartments from AED 1.3M",
+        "4% DLD waiver",
+        "15% down · 60/40 plan"
+      ],
+      "image": "assets/listings/damac-lagoon-views.jpg",
+      "image_alt": "DAMAC Lagoon Views poster showing lagoon-side apartments",
+      "image_fit": "contain",
+      "location": "dubai",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms": [],
+      "budget": [
+        "under-2"
+      ],
+      "category": [
+        "residence"
+      ],
+      "completion": "Confirm current schedule",
+      "developer": "Damac",
+      "link": "#contact",
+      "published": true,
+      "sections": [
+        {
+          "title": "Offer highlights",
+          "items": [
+            "Apartments from AED 1.3M",
+            "4% DLD waiver",
+            "15% down payment",
+            "60/40 payment plan"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-woods-serenity",
+      "title": "The Woods Serenity",
+      "area": "Sobha Sanctuary",
+      "badge": "EOI",
+      "type_label": "APARTMENTS",
+      "price": "1BR from AED 1M",
+      "description": "Exclusive EOI benefits on The Woods Serenity at Sobha Sanctuary: a 40/60 payment plan and 4% DLD waiver, with only 90 units available.",
+      "specs": [
+        "1BR from AED 1M",
+        "2BR from AED 1.6M",
+        "40/60 payment plan"
+      ],
+      "image": "assets/listings/the-woods-serenity.jpg",
+      "image_alt": "The Woods Serenity residential building at Sobha Sanctuary",
+      "image_fit": "cover",
+      "location": "sobha-sanctuary",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms": [
+        "1",
+        "2"
+      ],
+      "budget": [
+        "under-2"
+      ],
+      "category": [
+        "residence"
+      ],
+      "completion": "Confirm current schedule",
+      "developer": "Sobha",
+      "link": "#contact",
+      "published": true,
+      "videos": [
+        {
+          "title": "Project walkthrough",
+          "file": "assets/listings/the-woods-serenity.mp4",
+          "poster": "assets/listings/the-woods-serenity.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "title": "EOI exclusive benefits",
+          "items": [
+            "40/60 payment plan",
+            "4% DLD waiver",
+            "Only 90 units available"
+          ]
+        },
+        {
+          "title": "Payment plan",
+          "items": [
+            "20% on booking",
+            "10% in 12 months",
+            "10% in 24 months",
+            "60% on handover"
+          ]
+        },
+        {
+          "title": "Starting prices",
+          "items": [
+            "1 bedroom — from AED 1M",
+            "2 bedrooms — from AED 1.6M"
+          ]
+        },
+        {
+          "title": "EOI amounts",
+          "items": [
+            "1 bedroom — AED 25,000",
+            "2 bedrooms — AED 40,000"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raw-theory",
+      "title": "Raw Theory at Raw District",
+      "area": "Experience Centre, Sheikh Zayed Road",
+      "badge": "EXPERIENCE CENTRE",
+      "type_label": "LIFESTYLE",
+      "price": "Details on request",
+      "description": "More than a workout. A culture built on discipline and wellbeing. Raw Theory at Raw District Experience Centre, Sheikh Zayed Road.",
+      "specs": [
+        "Raw Theory fitness",
+        "Experience Centre",
+        "Sheikh Zayed Road"
+      ],
+      "image": "assets/listings/raw-theory.jpg",
+      "image_alt": "Raw Theory gym at the Raw District Experience Centre",
+      "image_fit": "cover",
+      "location": "dubai",
+      "property_types": [],
+      "bedrooms": [],
+      "budget": [
+        "request"
+      ],
+      "category": [],
+      "completion": "Confirm current schedule",
+      "developer": "Imtiaz",
+      "link": "#contact",
+      "published": true,
+      "videos": [
+        {
+          "title": "Raw Theory film",
+          "file": "assets/listings/raw-theory-raw-district.mp4",
+          "poster": "assets/listings/raw-theory.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "title": "About",
+          "items": [
+            "More than a workout — a culture built on discipline and wellbeing",
+            "Raw Theory at Raw District Experience Centre, Sheikh Zayed Road"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "valia",
+      "title": "VALIA",
+      "area": "Dubai Creek Harbour",
+      "badge": "EMAAR",
+      "type_label": "1–4 BEDROOMS",
+      "price": "1 bed avg. AED 2.06M",
+      "description": "A high-rise tower rising from a vibrant mixed-use podium, close to the future Dubai Square Mall and the upcoming Emaar Properties metro station.",
+      "specs": [
+        "1–4 bedroom residences",
+        "80/20 payment plan",
+        "Handover 2030"
+      ],
+      "image": "assets/listings/valia.jpg",
+      "image_alt": "VALIA tower at Dubai Creek Harbour",
+      "image_fit": "cover",
+      "location": "dubai-creek-harbour",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms": [
+        "1",
+        "2",
+        "3",
+        "4plus"
+      ],
+      "budget": [
+        "2-5",
+        "5-10"
+      ],
+      "category": [
+        "residence"
+      ],
+      "completion": "2030 (confirm exact date)",
+      "developer": "Emaar",
+      "link": "#contact",
+      "published": true,
+      "videos": [
+        {
+          "title": "VALIA film",
+          "file": "assets/listings/valia-dubai-creek-harbour.mp4",
+          "poster": "assets/listings/valia-video-poster.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "title": "The destination",
+          "items": [
+            "A new residential address at Dubai Creek Harbour, rising alongside Dubai Square Mall",
+            "Dubai Square Mall will bring world-class retail, dining, entertainment and lifestyle to the waterfront",
+            "High-rise tower on a mixed-use podium, close to the upcoming Emaar Properties metro station"
+          ]
+        },
+        {
+          "title": "Highlights",
+          "items": [
+            "Dubai Creek Harbour location",
+            "Close to the new Dubai Creek Harbour icon",
+            "Close to Dubai Square Mall",
+            "An Emaar development",
+            "Close to Ras Al Khor Wildlife Sanctuary"
+          ]
+        },
+        {
+          "title": "Average prices and sizes",
+          "items": [
+            "1 bedroom — AED 2,060,000 · 821 sq ft",
+            "2 bedrooms — AED 3,060,000 · 1,255 sq ft",
+            "3 bedrooms — AED 4,110,000 · 1,674 sq ft",
+            "4 bedrooms — AED 6,470,000 · 2,561 sq ft",
+            "Full floor — approx. 9,950 sq ft (price on request)",
+            "Half-floor and bulk purchases (minimum 3 units) available"
+          ]
+        },
+        {
+          "title": "Payment plan and completion",
+          "items": [
+            "80% during construction / 20% on completion",
+            "Expected completion: 2030 (confirm exact date with your advisor)"
+          ]
+        },
+        {
+          "title": "EOI amounts",
+          "items": [
+            "1 bedroom — AED 50,000",
+            "2 bedrooms — AED 60,000",
+            "3 bedrooms — AED 80,000",
+            "4 bedrooms — AED 100,000",
+            "Half floor — AED 250,000",
+            "Full floor — AED 500,000"
+          ]
+        },
+        {
+          "title": "To register an EOI you will need",
+          "items": [
+            "Payment completed",
+            "EOI form fully filled in",
+            "Client documents"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "damac-district-1br",
+      "title": "DAMAC District 1BR + Study",
+      "area": "DAMAC Hills 1",
+      "badge": "LIFESTYLE COLLECTION",
+      "type_label": "1BR + STUDY",
+      "price": "AED 1,337,000",
+      "description": "A one-bedroom apartment with study and full Trump golf course views, within walking distance of the mall and offices in a prestigious golf community.",
+      "specs": [
+        "735 sq ft",
+        "Handover Aug 2029",
+        "60/40 plan"
+      ],
+      "image": "assets/listings/damac-district-hills-1.jpg",
+      "image_alt": "Golf course and DAMAC District towers at sunset",
+      "image_fit": "cover",
+      "location": "damac-hills",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms": [
+        "1"
+      ],
+      "budget": [
+        "under-2"
+      ],
+      "category": [
+        "residence"
+      ],
+      "completion": "August 2029",
+      "developer": "Damac",
+      "link": "#contact",
+      "published": true,
+      "videos": [
+        {
+          "title": "DAMAC District film",
+          "file": "assets/listings/damac-district-hills-1.mp4",
+          "poster": "assets/listings/damac-district-hills-1.jpg"
+        }
+      ],
+      "gallery": [
+        "assets/listings/damac-lifestyle-collection.jpg"
+      ],
+      "sections": [
+        {
+          "title": "The unit",
+          "items": [
+            "Price — AED 1,337,000",
+            "Size — 735 sq ft",
+            "Handover — August 2029",
+            "Location — DAMAC Hills 1, DAMAC District"
+          ]
+        },
+        {
+          "title": "Offer",
+          "items": [
+            "60/40 payment plan",
+            "0.25% monthly installments",
+            "4% DLD waiver",
+            "Extra offer available (subject to management approval)"
+          ]
+        },
+        {
+          "title": "Location highlights",
+          "items": [
+            "Full Trump golf course view",
+            "Walking distance to the mall",
+            "Walking distance to offices"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "113-residences-4br-duplex",
+      "title": "113 Residences 4BR Duplex",
+      "area": "Al Sufouh",
+      "badge": "SPECIAL OFFER",
+      "type_label": "4BR DUPLEX",
+      "price": "AED 5,298,924",
+      "description": "A four-bedroom duplex with a private plunge pool in Al Sufouh, with premium finishes by Versace Ceramics and direct access to Sheikh Zayed Road.",
+      "specs": [
+        "4 bedrooms + 2 studies",
+        "Private plunge pool",
+        "Duplex layout"
+      ],
+      "image": "assets/listings/113-residences-4br-duplex.jpg",
+      "image_alt": "Interior of the 113 Residences duplex",
+      "image_fit": "cover",
+      "location": "al-sufouh",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms": [
+        "4plus"
+      ],
+      "budget": [
+        "5-10"
+      ],
+      "category": [
+        "residence"
+      ],
+      "completion": "Confirm current schedule",
+      "developer": "IMAN Developers",
+      "link": "#contact",
+      "published": true,
+      "videos": [
+        {
+          "title": "Duplex walkthrough",
+          "file": "assets/listings/113-residences-4br-duplex.mp4",
+          "poster": "assets/listings/113-residences-4br-duplex.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Unit highlights",
+          "items": [
+            "4 spacious bedrooms",
+            "2 extra study rooms",
+            "Private plunge pool",
+            "Expansive duplex layout"
+          ]
+        },
+        {
+          "title": "Pricing",
+          "items": [
+            "Original price — AED 5,519,712",
+            "Special offer — AED 5,298,924"
+          ]
+        },
+        {
+          "title": "Location highlights",
+          "items": [
+            "Palm Jumeirah — 8 min",
+            "Burj Al Arab — 10 min",
+            "Downtown — 18 min",
+            "Direct access to Sheikh Zayed Road",
+            "Premium finishes by Versace Ceramics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "113-residences-iman",
+      "title": "113 Residences by IMAN",
+      "area": "Al Sufouh",
+      "badge": "SHOW APARTMENT",
+      "type_label": "ONLY 113 UNITS",
+      "price": "From AED 1.8M",
+      "description": "See the show apartment of 113 Residences, one of Dubai's most exclusive new launches in Al Sufouh, with Versace Ceramics finishes.",
+      "specs": [
+        "Only 113 units",
+        "Versace Ceramics finishes",
+        "8 mins to Palm Jumeirah"
+      ],
+      "image": "assets/listings/113-residences-show-apartment.jpg",
+      "image_alt": "Show apartment interior at 113 Residences",
+      "image_fit": "cover",
+      "location": "al-sufouh",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms": [],
+      "budget": [
+        "under-2"
+      ],
+      "category": [
+        "residence"
+      ],
+      "completion": "Confirm current schedule",
+      "developer": "IMAN Developers",
+      "link": "#contact",
+      "published": true,
+      "videos": [
+        {
+          "title": "Show apartment tour",
+          "file": "assets/listings/113-residences-show-apartment.mp4",
+          "poster": "assets/listings/113-residences-show-apartment.jpg"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Why 113 Residences",
+          "items": [
+            "Starting from AED 1.8M",
+            "Only 113 units available",
+            "Versace Ceramics finishes",
+            "8 mins to Palm Jumeirah",
+            "3 mins to Al Sufouh Beach",
+            "Direct access to Sheikh Zayed Road"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "damac-islands-2",
+      "title": "DAMAC Islands 2 Townhouses",
+      "area": "DAMAC Islands 2",
+      "badge": "PAY LIKE 4 · LIVE IN 5",
+      "type_label": "5BR TOWNHOUSES",
+      "price": "From AED 3.55M",
+      "description": "Spacious 5-bedroom townhouses at DAMAC Islands 2 from AED 3.55 million, with just a 16% down payment and a 4% DLD fee waiver.",
+      "specs": [
+        "5 bedrooms",
+        "16% down payment",
+        "4% DLD fee waiver"
+      ],
+      "image": "assets/listings/damac-islands-2.jpg",
+      "image_alt": "DAMAC Islands 2 five-bedroom townhouse poster",
+      "image_fit": "contain",
+      "location": "damac-islands",
+      "property_types": [
+        "townhouse"
+      ],
+      "bedrooms": [
+        "4plus"
+      ],
+      "budget": [
+        "2-5"
+      ],
+      "category": [
+        "villa"
+      ],
+      "completion": "Confirm current schedule",
+      "developer": "Damac",
+      "link": "#contact",
+      "published": true,
+      "sections": [
+        {
+          "title": "Offer",
+          "items": [
+            "Spacious 5-bedroom townhouses",
+            "Starting from AED 3.55 million",
+            "16% down payment",
+            "4% DLD fee waiver",
+            "Specially crafted payment plan: own a 5-bedroom townhouse while paying like a 4-bedroom"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shahrukhz-residences",
+      "title": "Shahrukhz Residences by Danube",
+      "area": "Waterfront, Dubai",
+      "badge": "EOI NOW OPEN",
+      "type_label": "FULLY FURNISHED",
+      "price": "Studio from AED 1.7M",
+      "description": "Live Life King Style. A landmark fully furnished waterfront project with 360° sea views, premium residences and Signature Penthouses designed by Gauri Khan.",
+      "specs": [
+        "60 floors · 200 m",
+        "30/70 payment plan",
+        "Handover Dec 2029"
+      ],
+      "image": "assets/listings/shahrukhz-residences.jpg",
+      "image_alt": "Shahrukhz Residences by Danube waterfront tower",
+      "image_fit": "cover",
+      "location": "dubai",
+      "property_types": [
+        "apartment",
+        "studio"
+      ],
+      "bedrooms": [
+        "studio",
+        "1",
+        "2",
+        "3"
+      ],
+      "budget": [
+        "under-2",
+        "2-5",
+        "5-10"
+      ],
+      "category": [
+        "residence",
+        "branded"
+      ],
+      "completion": "December 2029",
+      "developer": "Danube",
+      "link": "#contact",
+      "published": true,
+      "videos": [
+        {
+          "title": "Project interview",
+          "file": "assets/listings/shahrukhz-residences-interview.mp4",
+          "poster": "assets/listings/shahrukhz-interview-poster.jpg"
+        },
+        {
+          "title": "Project film",
+          "file": "assets/listings/shahrukhz-residences-film.mp4",
+          "poster": "assets/listings/shahrukhz-film-poster.jpg"
+        }
+      ],
+      "gallery": [
+        "assets/listings/shahrukhz-yacht.jpg",
+        "assets/listings/shahrukhz-faq.jpg"
+      ],
+      "sections": [
+        {
+          "title": "Prime waterfront location",
+          "items": [
+            "Port Rashid Boat Station — 2 mins",
+            "Dubai Cruise Terminal 2 — 3 mins",
+            "Jumeirah Beach / DWTC — 8 mins",
+            "Burj Khalifa & Dubai Mall — 10 mins",
+            "Dubai Festival City — 12 mins",
+            "DXB Airport — 15 mins",
+            "Burj Al Arab — 20 mins",
+            "Palm Jumeirah — 25 mins",
+            "Upcoming metro, proposed mall and international cruise terminal"
+          ]
+        },
+        {
+          "title": "Project highlights",
+          "items": [
+            "60 floors | 200 m height",
+            "10 + 1 lifts",
+            "40+ amenities across 3 levels",
+            "Approx. 80,000 sq ft amenity area",
+            "10,000 sq ft swimming pool area",
+            "Pools on levels 9 and 33",
+            "Visitor parking available",
+            "17 retail outlets",
+            "Exclusive yacht for residents"
+          ]
+        },
+        {
+          "title": "Configurations and starting prices",
+          "items": [
+            "Studio — AED 1.7M",
+            "Flex Studio — AED 1.85M",
+            "1 BHK — AED 2.3M",
+            "Flex 1 BHK — AED 2.95M",
+            "Flex Plus / King's 1 BHK — AED 3.4M",
+            "2 BHK Premium — AED 4.25M",
+            "King's 2 BHK — AED 4.95M",
+            "3 BHK — AED 6.5M",
+            "Signature King's Ocean Suites also available"
+          ]
+        },
+        {
+          "title": "30/70 payment plan",
+          "items": [
+            "10% — within 21 days of booking",
+            "10% — after 2 months",
+            "5% — after 10 months",
+            "5% — after 18 months",
+            "70% — on handover (December 2029)"
+          ]
+        },
+        {
+          "title": "EOI now open",
+          "items": [
+            "Studio and 1 BHK — AED 50,000",
+            "2 BHK and above — AED 100,000",
+            "Pay 10% for priority unit allocation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soma",
+      "title": "Soma Residences",
+      "compare_title": "Soma Residences",
+      "area": "Dubai Islands",
+      "badge": "COMING SOON",
+      "type_label": "APARTMENTS",
+      "price": "From AED 1.53M",
+      "description": "Boutique Mediterranean-inspired waterfront living with only 44 residences.",
+      "specs": [
+        "1–3 bed + duplex",
+        "From 878 sq ft",
+        "50/50 plans"
+      ],
+      "image": "assets/waterfront-living.jpg",
+      "image_alt": "Waterfront setting representing Soma Residences on Dubai Islands",
+      "image_light": false,
+      "location": "dubai-islands",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms": [
+        "1",
+        "2",
+        "3"
+      ],
+      "budget": [
+        "under-2",
+        "2-5"
+      ],
+      "category": [
+        "residence"
+      ],
+      "completion": "Coming soon",
+      "developer": "DEVMARK",
+      "link": "#soma",
+      "published": true,
+      "image_fit": "cover"
+    },
+    {
+      "id": "tilal-villa",
+      "title": "Tilal Binghatti",
+      "compare_title": "Tilal Binghatti Villa",
+      "area": "Al Rowayah 1",
+      "badge": "GEM OF THE DAY",
+      "type_label": "6BR VILLA",
+      "price": "AED 17.19M",
+      "description": "One of only 73 standalone villas: corner plot, single row and park-facing.",
+      "specs": [
+        "6 bedrooms",
+        "6,813.99 sq ft BUA",
+        "60/40 plan"
+      ],
+      "image": "assets/tilal-villa-concept.svg",
+      "image_alt": "Concept illustration for the Tilal Binghatti standalone villa",
+      "image_light": true,
+      "location": "al-rowayah",
+      "property_types": [
+        "villa"
+      ],
+      "bedrooms": [
+        "6"
+      ],
+      "budget": [
+        "10-plus"
+      ],
+      "category": [
+        "villa"
+      ],
+      "completion": "Q1 2029",
+      "developer": "Tilal Binghatti",
+      "link": "#gem",
+      "published": true,
+      "image_fit": "contain"
+    },
+    {
+      "id": "radisson-rak",
+      "title": "Radisson Blu Tower",
+      "compare_title": "Radisson Blu – RAK Central",
+      "area": "RAK Central",
+      "badge": "MIXED-USE",
+      "type_label": "STUDIOS",
+      "price": "From AED 1.3M",
+      "description": "Hospitality, residential and retail components positioned for long-term destination demand.",
+      "specs": [
+        "Studios",
+        "From 475 sq ft",
+        "G + 28 floors"
+      ],
+      "image": "assets/tower-residence.jpg",
+      "image_alt": "Contemporary residential tower representing Radisson Blu RAK Central",
+      "image_light": false,
+      "location": "rak-central",
+      "property_types": [
+        "studio",
+        "mixed-use"
+      ],
+      "bedrooms": [
+        "studio"
+      ],
+      "budget": [
+        "under-2"
+      ],
+      "category": [
+        "branded",
+        "residence"
+      ],
+      "completion": "Confirm current schedule",
+      "developer": "Radisson Blu / RAK Central",
+      "link": "#rak-central",
+      "published": true,
+      "image_fit": "cover"
+    },
+    {
+      "id": "emaar-oasis",
+      "title": "The Oasis by Emaar",
+      "compare_title": "The Oasis by Emaar",
+      "area": "The Oasis, Dubai",
+      "badge": "EMAAR",
+      "type_label": "VILLAS & MANSIONS",
+      "price": "Price on request",
+      "description": "Low-rise waterfront living around lagoons, open spaces and resident clubhouses.",
+      "specs": [
+        "Villas & mansions",
+        "Waterfront",
+        "Official availability required"
+      ],
+      "image": "assets/emaar-oasis-poster.jpg",
+      "image_alt": "The Oasis by Emaar lifestyle film poster",
+      "image_light": false,
+      "location": "the-oasis",
+      "property_types": [
+        "villa",
+        "mansion"
+      ],
+      "bedrooms": [
+        "4plus"
+      ],
+      "budget": [
+        "request"
+      ],
+      "category": [
+        "villa",
+        "residence"
+      ],
+      "completion": "Confirm current inventory",
+      "developer": "Emaar",
+      "link": "#emaar-oasis",
+      "published": true,
+      "image_fit": "cover"
+    },
+    {
+      "id": "vincitore",
+      "title": "Vincitore Collection",
+      "compare_title": "Vincitore Collection",
+      "area": "Dubai",
+      "badge": "FEATURED DEVELOPER",
+      "type_label": "LUXURY RESIDENCES",
+      "price": "Latest inventory",
+      "description": "Wellness Estate, Aqua Flora and Aqua Dimore within a design-led developer portfolio.",
+      "specs": [
+        "Multiple projects",
+        "2027–2029 handovers",
+        "Offers on request"
+      ],
+      "image": "assets/vincitore-legacy-poster.jpg",
+      "image_alt": "Vincitore legacy film poster",
+      "image_light": false,
+      "location": "dubai",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms": [
+        "1",
+        "2",
+        "3"
+      ],
+      "budget": [
+        "request"
+      ],
+      "category": [
+        "residence",
+        "branded"
+      ],
+      "completion": "2027–2029 across projects",
+      "developer": "Vincitore",
+      "link": "#vincitore",
+      "published": true,
+      "image_fit": "cover"
+    },
+    {
+      "id": "danube-doctors",
+      "title": "Danube Doctors’ Offer",
+      "compare_title": "Danube Doctors’ Offer",
+      "area": "Selected Dubai projects",
+      "badge": "LIMITED-TIME OFFER",
+      "type_label": "MEDICAL PROFESSIONALS",
+      "price": "From AED 3,999/mo*",
+      "description": "0.5% monthly structures and selected post-handover plans, subject to eligibility and terms.",
+      "specs": [
+        "Selected residences",
+        "60/40 & 50/50 examples",
+        "Eligibility required"
+      ],
+      "image": "assets/danube-doctors/page-01.webp",
+      "image_alt": "Danube Properties Doctors' Day offer brochure cover",
+      "image_light": false,
+      "location": "dubai",
+      "property_types": [
+        "offer",
+        "apartment"
+      ],
+      "bedrooms": [
+        "studio",
+        "1",
+        "2",
+        "3"
+      ],
+      "budget": [
+        "campaign"
+      ],
+      "category": [
+        "campaign",
+        "residence"
+      ],
+      "completion": "Project-specific",
+      "developer": "Danube",
+      "link": "#danube-doctors",
+      "published": true,
+      "image_fit": "cover"
+    }
+  ]
+}

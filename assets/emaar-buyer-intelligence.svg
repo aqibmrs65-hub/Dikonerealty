@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+<title id="title">Global buyer market intelligence</title>
+<desc id="desc">Abstract world-market visualization with connected signals and momentum indicators; it does not show official nationality rankings.</desc>
+<defs>
+  <radialGradient id="bg" cx="74%" cy="22%" r="95%"><stop offset="0" stop-color="#1f485a"/><stop offset=".48" stop-color="#0b2533"/><stop offset="1" stop-color="#06141d"/></radialGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0ddb2"/><stop offset="1" stop-color="#b58b49"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M60 0H0V60" fill="none" stroke="#fff" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1200" height="900" fill="url(#bg)"/>
+<rect width="1200" height="900" fill="url(#grid)"/>
+<circle cx="780" cy="430" r="310" fill="none" stroke="#fff" stroke-opacity=".08"/>
+<circle cx="780" cy="430" r="235" fill="none" stroke="#fff" stroke-opacity=".07"/>
+<circle cx="780" cy="430" r="158" fill="none" stroke="#fff" stroke-opacity=".06"/>
+<path d="M470 430h620M780 120v620M515 275c170 90 360 90 530 0M515 585c170-90 360-90 530 0M610 155c-90 165-90 385 0 550M950 155c90 165 90 385 0 550" fill="none" stroke="#fff" stroke-opacity=".055"/>
+<g fill="none" stroke="url(#gold)" stroke-width="3" stroke-linecap="round" opacity=".78">
+  <path d="M180 220C390 110 520 180 650 330"/>
+  <path d="M250 675C400 710 530 620 690 505"/>
+  <path d="M1105 255C965 220 910 290 842 376"/>
+  <path d="M1090 690C930 720 870 610 825 500"/>
+</g>
+<g fill="#e6cb96" filter="url(#glow)">
+  <circle cx="180" cy="220" r="8"/><circle cx="250" cy="675" r="8"/><circle cx="1105" cy="255" r="8"/><circle cx="1090" cy="690" r="8"/><circle cx="780" cy="430" r="11"/>
+</g>
+<g fill="#fff" fill-opacity=".82" font-family="Arial, sans-serif">
+  <text x="82" y="88" font-size="18" letter-spacing="5">EMAAR · Q2</text>
+  <text x="82" y="152" font-family="Georgia, serif" font-size="67">Buyer profile</text>
+  <text x="82" y="188" font-size="15" letter-spacing="4" fill-opacity=".42">MARKET SENTIMENT / TARGETED PIPELINES</text>
+</g>
+<g transform="translate(82 300)">
+  <rect width="280" height="225" rx="25" fill="#fff" fill-opacity=".055" stroke="#fff" stroke-opacity=".12"/>
+  <text x="28" y="43" fill="#e6cb96" font-family="Arial" font-size="13" letter-spacing="3">SIGNAL STRENGTH</text>
+  <path d="M30 178L82 132l48 18 54-81 62 26" fill="none" stroke="url(#gold)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30 178h218M30 135h218M30 92h218" stroke="#fff" stroke-opacity=".08"/>
+  <circle cx="82" cy="132" r="5" fill="#e6cb96"/><circle cx="130" cy="150" r="5" fill="#e6cb96"/><circle cx="184" cy="69" r="5" fill="#e6cb96"/><circle cx="246" cy="95" r="5" fill="#e6cb96"/>
+</g>
+<g transform="translate(82 575)" font-family="Arial, sans-serif">
+  <text y="0" fill="#fff" fill-opacity=".38" font-size="13" letter-spacing="3">STRATEGIC LENS</text>
+  <text y="50" fill="#fff" font-family="Georgia, serif" font-size="42">Follow the money.</text>
+  <text y="87" fill="#fff" fill-opacity=".48" font-size="16">Focus outreach without narrowing opportunity.</text>
+</g>
+<g transform="translate(610 780)" font-family="Arial, sans-serif">
+  <rect width="460" height="66" rx="33" fill="#fff" fill-opacity=".055" stroke="#fff" stroke-opacity=".13"/>
+  <circle cx="38" cy="33" r="7" fill="#e6cb96" filter="url(#glow)"/>
+  <text x="62" y="28" fill="#fff" fill-opacity=".42" font-size="11" letter-spacing="2">GLOBAL BUYER DEMAND</text>
+  <text x="62" y="48" fill="#fff" font-size="15">Official nationality ranking available on request</text>
+</g>
+</svg>

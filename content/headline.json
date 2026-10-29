@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "flag": "NEW UPDATE",
+  "date_label": "",
+  "pill_text": "New update: Shahrukhz Residences by Danube — EOI now open",
+  "title": "Amazing news: Shahrukhz Residences by Danube is now open for EOI",
+  "text": "Live Life King Style. A fully furnished waterfront landmark with 360° sea views, premium residences and Signature Penthouses designed by Gauri Khan.",
+  "points": [
+    "Studio from AED 1.7M",
+    "30/70 payment plan",
+    "EOI from AED 50,000",
+    "60 floors · 200 m"
+  ],
+  "image": "assets/listings/shahrukhz-residences.jpg",
+  "image_alt": "Shahrukhz Residences by Danube waterfront tower",
+  "project_id": "shahrukhz-residences",
+  "primary_label": "Watch video and full details",
+  "primary_link": "#contact",
+  "secondary_label": "Register your interest",
+  "secondary_link": "#contact",
+  "note": "Prices, availability and payment plans are indicative and subject to confirmation by the developer."
+}
